@@ -36,7 +36,7 @@ file_name below with the copied version of your new file name.
 """
 #For this code the x axis is second column
 #The Y axis is the fifth column
-file_name = "/Users/kclee/Dropbox/pyprac/pr5-input-data.txt" 
+file_name = "/Users/MLee/Desktop/InputData.txt" 
 #Using a counter to find the legnth
 legnth_Of_The_First_Column = 0
 #Parsing
